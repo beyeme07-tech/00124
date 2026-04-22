@@ -1,5 +1,5 @@
 # ⚽ Günlük Futbol İçerikleri
-**Üretilme tarihi:** 22 April 2026, 08:25
+**Üretilme tarihi:** 22 April 2026, 13:24
 
 ---
 
@@ -8,62 +8,62 @@
 
 ---
 
-## 🗞️ Haber 1: 'Indefensible' and 'unacceptable' - furious Rosenior questions Chelsea's desire
+## 🗞️ Haber 1: Rosenior position increasingly uncertain at Chelsea
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJVP866tYZi8kG6uz5uV'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJtAgYnzCjb1hL8G5Cho'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJVP9A6HH7SxFqPaKJiM'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJtAhfmG3FqArbA5BDuC'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJVPA8dZVDYaiEHxUUG9'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJtAioDzWNmRw2yecanr'}
 ```
 
 ---
 
-## 🗞️ Haber 2: How Leicester went from Premier League champions to League One in a decade
+## 🗞️ Haber 2: Real Madrid's Tchouameni on Man Utd radar
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJVPAsn5jooBbF3scmCB'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJtAjDmoWqfdV6qzX3Gy'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJVPC8Bn7K5WaixS1Vmd'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJtAjZN2bGNEUPYxoB8V'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJVPCju3WY3r7qgPKNVT'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJtAk67dHVSbvvYxyu11'}
 ```
 
 ---
 
-## 🗞️ Haber 3: Brighton beat Chelsea to heap more pressure on Rosenior
+## 🗞️ Haber 3: Rangers captain Tavernier to leave in summer after 11 years
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJVPDN6w6xQP9Zv4aPj2'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJtAmREQZtQ7BGciP6sB'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJVPDyZpLqMK5dgGEs6c'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJtAmmpGXhJfEQmrMbgT'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJVPEjhc4tsMkNMRL1zt'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJtAn7Qcu4j2767cPpTa'}
 ```
 
 ---
