@@ -1,5 +1,5 @@
 # ⚽ Günlük Futbol İçerikleri
-**Üretilme tarihi:** 05 May 2026, 13:51
+**Üretilme tarihi:** 05 May 2026, 19:45
 
 ---
 
@@ -8,42 +8,42 @@
 
 ---
 
-## 🗞️ Haber 1: Foden reaches agreement over new Man City deal
+## 🗞️ Haber 1: Is Gibbs-White favourite to start as England's number 10 at World Cup?
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajXjxChZmp2boTdjsbJj'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cajzn5ximhsMuRb1FhEo4'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajXjyPPSGNDACP3DH1dH'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cajzn7RXYKyboC7fbsovZ'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajXjymTMEYuhtMLHCa3v'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cajzn8LbW9bDDZRevboBT'}
 ```
 
 ---
 
-## 🗞️ Haber 2: Derry says debut a 'dream come true' despite injury
+## 🗞️ Haber 2: Everton fan arrested for alleged Semenyo racist abuse
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajXjzQeaf2nyWEf6CbVm'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cajzn941GXmD3pNYNfCGG'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajXk174z8qzPtR8wcbM9'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cajzn9jgefaqyQEQtA2BQ'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajXk1ozKffDCeSTnoEWt'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajznAT6YZunFaDVuAYRi'}
 ```
 
 ---
@@ -53,17 +53,17 @@
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajXk2QTXW2EfvHLw6Wnv'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajznB9GSwMk2GCM2RQ8u'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajXk3EZcfaPWGUABeNrQ'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajznBvPthwrFAXUWmAeY'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajXk3pHjrg5dQkEBHVK3'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CajznCbaVQeXTZMRnGDTz'}
 ```
 
 ---
