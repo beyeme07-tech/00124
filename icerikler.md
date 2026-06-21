@@ -1,5 +1,5 @@
 # ⚽ Günlük Futbol İçerikleri
-**Üretilme tarihi:** 21 June 2026, 14:06
+**Üretilme tarihi:** 21 June 2026, 19:54
 
 ---
 
@@ -8,62 +8,62 @@
 
 ---
 
-## 🗞️ Haber 1: The beauty of sharing the first World Cup with your child
+## 🗞️ Haber 1: Lamine Yamal shows why this could be his World Cup
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGXwZTPa5k3qGPtkE6SG'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGzUtBREm5MFMGdakEx8'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGXwaGG9pX3RREnvjfww'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGzUu4kMeVdcHXKXv7Fc'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGXwbEYiFhF6p3Aeib2n'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGzUucEtpjee1thhS1H1'}
 ```
 
 ---
 
-## 🗞️ Haber 2: All three England keepers played there - Carlisle's role in trio's rise
+## 🗞️ Haber 2: The beauty of sharing your child's first World Cup
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGXwc6tV3VjudQKeEE64'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGzUv8FHfyVCaoCAZC67'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGXwcmKqiuwFYEtBQk5H'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGzUvoBHAaanahNbFnmr'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGXwdLJreLBmq4YRp1X3'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGzUwKS53WHjcbQvxvmq'}
 ```
 
 ---
 
-## 🗞️ Haber 3: Doku criticised over plan to return home for birth
+## 🗞️ Haber 3: The World Cup records that look set to be broken
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGXwdwGYaCEtNCTw2W6f'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGzUwqvopwanKp2HKuoR'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGXweXVao1VWrNHWNbLx'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGzUxPB6GxRM63ped2so'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGXwfEuVSqjSMzcrrR5F'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcGzUxvvGnhN1zzLyfFvA'}
 ```
 
 ---
