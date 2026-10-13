@@ -1,5 +1,5 @@
 # ⚽ Günlük Futbol İçerikleri
-**Üretilme tarihi:** 12 October 2026, 20:54
+**Üretilme tarihi:** 13 October 2026, 00:29
 
 ---
 
@@ -8,62 +8,62 @@
 
 ---
 
-## 🗞️ Haber 1: Hincapie and Zubimendi injured in post-match training session
+## 🗞️ Haber 1: Coventry announce themselves back in the big time
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfy1R7h6HSu7TfDMGv17M'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfyHpydgTNgiMQoPd7y5y'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfy1R8bAF3rRXoguGcFbj'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfyHpziRQb1uyBCNCXuyh'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfy1R97uMyNVFQQMebgtG'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfyHq1NMnYfGMjwt9Fd5X'}
 ```
 
 ---
 
-## 🗞️ Haber 2: Do Lionesses lack ruthlessness in front of goal?
+## 🗞️ Haber 2: Coventry thrash Newcastle to claim first home win of season
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfy1R9hPCWg5ySa8WChqs'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfyHq25HZNzu1N7eLxnFx'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfy1RAJ6XY5ftpCqLYmqL'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfyHq2nwioQkzkmWrqXDo'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfy1RAr6ZUdHwmSLwhXzF'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfyHq3VcKpzJK7fxxKxEp'}
 ```
 
 ---
 
-## 🗞️ Haber 3: Burnham had formal meeting with Man City chair while mayor
+## 🗞️ Haber 3: Who has made Troy's Premier League team of the week?
 *Kaynak: BBC Sport*
 
 ### 📰 Haber Özeti
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfy1RBToAzA53ts1DdZ5G'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfyHq4CH1KhfTrpTzdHV2'}
 ```
 
 ### 📊 İstatistik & Analiz
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfy1RC2mtNoQW2kMgs6LA'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfyHq4uSedu97tZ4miNZj'}
 ```
 
 ### 🔥 Ateşli Yorum
 ```
-İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfy1RCaGuFfGjN3msdt7M'}
+İçerik üretilemedi: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfyHq5dM9yr2RXHFFeMqR'}
 ```
 
 ---
